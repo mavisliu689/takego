@@ -1,2 +1,3 @@
 /takego/static/
 *.pyc
+.DS_Store
